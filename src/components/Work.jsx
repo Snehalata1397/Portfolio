@@ -27,12 +27,15 @@ const Work = () => {
                 Travel Journal
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                {/* <a href="/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
-                </a>
-                <a href="/">
+                </a> */}
+                <a
+                  href="https://github.com/Snehalata1397/travel-journal"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -51,16 +54,19 @@ const Work = () => {
                 Covid Dashboard
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a
+                  href="https://www.iiserbpr.ac.in/covidlab/Dashboard/"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                {/* <a href="/">
                   <button className="disabled text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
@@ -75,12 +81,18 @@ const Work = () => {
                 Meme Generator
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a
+                  href="https://snehalata1397.github.io/meme-generator.github.io/"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a
+                  href="https://github.com/Snehalata1397/meme-generator.github.io"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
